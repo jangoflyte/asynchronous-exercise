@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "name": "package-exercise",
+  "version": "1.0.0",
+  "description": "This is a package for the asynchornous lesson",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jangoflyte/asynchronous-exercise.git"
+  },
+  "keywords": [
+    "asynchronous",
+    "package"
+  ],
+  "author": "Miguel Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jangoflyte/asynchronous-exercise/issues"
+  },
+  "homepage": "https://github.com/jangoflyte/asynchronous-exercise#readme"
+}
